@@ -1,0 +1,5 @@
+{
+  "name": "WIDDX Visual Code Map Engine V4",
+  "description": "A universal static code analysis and visualization tool that maps any software codebase into interactive flow graphs. Supports JS/TS, Python, Web Apps, Chrome Extensions, and Backend systems.",
+  "requestFramePermissions": []
+}
